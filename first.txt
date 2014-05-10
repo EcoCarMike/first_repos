@@ -2,3 +2,7 @@ This is my
 first sample
 Text file
 using GIT
+
+New modification 
+of our first text
+file on .git
