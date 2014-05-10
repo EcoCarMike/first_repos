@@ -6,3 +6,5 @@ using GIT
 New modification 
 of our first text
 file on .git
+
+Just adding some new stuff....YAY!!!!
